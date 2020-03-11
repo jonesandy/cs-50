@@ -1,6 +1,6 @@
 # Week 1
 
-This week was all about basic programming ideas. Served as more of an introduction to the concepts of programming. 
+This week was an introduction to the C programming language. Basic concepts and command line applications.
 
 ## Problem set 1
 
@@ -31,3 +31,8 @@ C does not hoist like JavaScript does. If you want to use the functions before t
 Each file has to be compiled down to a file the computer actually executes.
 
 A lot of the files utilise functions written by the Harvard team, and you need to remember to include these files at the top of the program to use them.
+
+--- 
+[Previous Week](https://github.com/jonesandy/cs-50/week-0.md)  
+[Home](https://github.com/jonesandy/cs-50)    
+[Next Week](https://github.com/jonesandy/cs-50/week-2.md)  
